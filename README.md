@@ -20,7 +20,7 @@ Download [`Tracker.pbix`](Tracker.pbix) to open the packaged Power BI report in 
 - `Data/` — supporting CSV data extracts used by the report
 - `extract_all_tables.py` — utility script for extracting tables from source material
 - `Zero-Emission Transition Plan.pdf` — reference document used during analysis
-- `screenshots/` — dashboard preview images for visitors who want to review the report before downloading it
+- `screenshots/` — dashboard preview images to review the report before downloading it
 
 ## Notes
 
