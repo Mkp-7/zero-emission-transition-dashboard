@@ -1,5 +1,5 @@
 """
-MTA Zero-Emission Bus Transition Plan (2022) — Depot Data Extractor
+Zero-Emission Bus Transition Plan (2022) — Depot Data Extractor
 --------------------------------------------------------------------
 Extracts 4 clean, depot-level tables from the source PDF using text-based
 regex parsing (no RAG, no vector search — this is a one-time structured
@@ -21,7 +21,7 @@ import pdfplumber
 import re
 import csv
 
-PDF_PATH = r"C:\Users\mkpat\OneDrive\Desktop\MTA Zero-Emission Transition Plan\MTA Zero-Emission Transition Plan.pdf"
+PDF_PATH = r"C:\Users\mkpat\OneDrive\Desktop\MTA Zero-Emission Transition Plan\Zero-Emission Transition Plan.pdf"
 
 
 def normalize_depot_name(name):
@@ -227,7 +227,7 @@ def main():
         "general_condition", "electrical", "space", "ceiling_height", "two_plus_constrained",
         "ej_score", "ej_borough_rank", "ej_system_rank",
     ]
-    with open("mta_depot_electrification_data.csv", "w", newline="") as f:
+    with open("Data/mta_depot_electrification_data.csv", "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         for depot in sorted(all_depots):
@@ -238,7 +238,7 @@ def main():
             row.update(ej.get(depot, {}))
             writer.writerow(row)
 
-    print(f"\nWrote mta_depot_electrification_data.csv with {len(all_depots)} rows")
+    print(f"\nWrote Data/mta_depot_electrification_data.csv with {len(all_depots)} rows")
 
 
 if __name__ == "__main__":
