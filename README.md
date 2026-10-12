@@ -30,4 +30,6 @@ The report is provided for exploration and demonstration. Refresh behavior may d
 
 ## License
 
-No license has been selected yet. Until one is added, all rights are reserved.
+The original code, documentation, and project materials are released under the [MIT License](LICENSE).
+
+Source data and reference materials may be subject to separate terms from their original publishers.
