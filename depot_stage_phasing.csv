@@ -1,0 +1,29 @@
+borough,depot,stage1_pct,stage1_power_supply,stage1_upgrades,stage1_effective_pct,stage2_pct,stage2_power_supply,stage2_upgrades,stage2_effective_pct,stage3_pct,stage3_power_supply,stage3_upgrades,stage3_effective_pct,stage4_pct,stage4_power_supply,stage4_upgrades,stage4_effective_pct
+Brooklyn,East New York,35,Yes,No,35,100,Yes,Yes,100,,,,100,,,,100
+Brooklyn,Fresh Pond,,,,0,,,,0,50,Yes,Yes,50,100,No,No,100
+Brooklyn,Grand Avenue,40,No,Yes,40,,,,40,100,Yes,No,100,,,,100
+Brooklyn,Flatbush,,,,0,,,,0,55,Yes,Yes,55,100,No,No,100
+Brooklyn,Jackie Gleason,20,Yes,Yes,20,35,No,No,35,100,No,No,100,,,,100
+Brooklyn,Ulmer Park,20,Yes,Yes,20,,,,20,,,,20,100,No,No,100
+Queens,Casey Stengel,,,,0,,,,0,70,Yes,Yes,70,100,No,No,100
+Queens,College Point,,,,0,,,,0,55,Yes,Yes,55,100,No,No,100
+Queens,Jamaica,20,Yes,Yes,20,100,No,No,100,,,,100,,,,100
+Queens,LaGuardia,,,,0,,,,0,,,,0,100,Yes,Yes,100
+Queens,Queens Village,25,Yes,Yes,25,,,,25,100,No,No,100,,,,100
+Queens,Baisley Park,,,,0,,,,0,80,Yes,Yes,80,100,No,No,100
+Queens,Far Rockaway,,,,0,,,,0,,,,0,100,Yes,Yes,100
+Queens,John F. Kennedy,,,,0,30,Yes,Yes,30,70,No,No,70,100,No,No,100
+Queens,Spring Creek,,,,0,,,,0,,,,0,100,Yes,Yes,100
+Staten Island,Castleton,,,,0,30,Yes,Yes,30,90,No,No,90,100,No,No,100
+Staten Island,Charleston,5,No,No,5,25,Yes,Yes,25,55,No,No,55,100,No,No,100
+Staten Island,Meredith Avenue,,,,0,,,,0,,,,0,100,Yes,Yes,100
+Staten Island,Yukon,5,No,No,5,,,,5,,,,5,100,Yes,Yes,100
+Bronx,Eastchester,20,Yes,Yes,20,,,,20,100,No,No,100,,,,100
+Bronx,Yonkers,,,,0,,,,0,,,,0,100,Yes,Yes,100
+Bronx,Gun Hill,25,Yes,Yes,25,,,,25,50,No,No,50,100,No,No,100
+Bronx,Kingsbridge,10,Yes,Yes,10,45,No,No,45,100,No,No,100,,,,100
+Bronx,West Farms,,,,0,60,Yes,Yes,60,85,No,No,85,100,No,No,100
+Bronx,Tuskegee Airmen,,,,0,45,Yes,Yes,45,,,,45,100,No,No,100
+Manhattan,Mother Clara Hale,25,No,No,25,65,Yes,Yes,65,,,,65,100,No,No,100
+Manhattan,Manhattanville,,,,0,,,,0,55,Yes,Yes,55,100,No,No,100
+Manhattan,Michael J. Quill,10,No,No,10,,,,10,,,,10,100,Yes,Yes,100

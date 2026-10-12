@@ -1,0 +1,19 @@
+# Power BI local/cache artifacts
+*.pbi
+*.pbix.tmp
+*.pbit.tmp
+~$*.pbix
+
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Keep screenshots intentional and reviewable
+screenshots/*.tmp

@@ -1,0 +1,6 @@
+stage,capital_program,total_bus_purchases,total_ze_purchases,total_non_ze_purchases,new_ze_conversions,cumulative_ze_fleet,ze_fleet_share_pct
+1,2015-2019,1776,60,1716,60,60,1
+1,2020-2024,2435,500,1935,500,560,9
+2,2025-2029,2225,1000,1225,1000,1560,26
+3,2030-2034,1970,1970,0,1955,3515,60
+4,2035-2039,3350,3350,0,2385,5900,100

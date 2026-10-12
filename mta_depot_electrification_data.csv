@@ -1,0 +1,29 @@
+depot,division,scheduled_buses,charger_low_mw,charger_high_mw,existing_unused_mw,required_capacity_low_mw,required_capacity_high_mw,new_power_supply_low_mw,new_power_supply_high_mw,general_condition,electrical,space,ceiling_height,two_plus_constrained,ej_score,ej_borough_rank,ej_system_rank
+Baisley Park,Queens,98,6.5,9.0,0.3,6.5,9.0,6.0,9.0,C,M,C,NA,Y,38,2,14
+Casey Stengel,Queens,194,12.5,18.0,0.6,12.5,18.0,12.0,17.5,M,C,M,NA,,36,4,18
+Castleton,Staten Island,187,12.5,17.5,0.5,12.5,17.5,12.0,17.0,C,C,G,NA,Y,18,2,26
+Charleston,Staten Island,178,12.0,16.5,2.1,12.0,16.5,10.0,14.5,G,G,M,NA,,16,4,28
+College Point,Queens,274,17.5,24.5,0.3,17.5,24.5,17.5,24.5,M,C,C,NA,Y,33,5,19
+East New York,Brooklyn,208,13.5,19.0,0.4,13.5,19.0,13.0,18.5,*,C,M,G,,55,1,5
+Eastchester,Bronx,108,7.0,10.0,0.2,7.0,10.0,7.0,10.0,M,M,G,NA,,44,5,7
+Far Rockaway,Queens,93,6.5,8.5,0.0,6.5,8.5,6.5,8.5,C,G,C,NA,Y,26,9,24
+Flatbush,Brooklyn,206,13.5,19.0,0.5,13.5,19.0,13.0,18.5,C,C,C,C,Y,38,4,13
+Fresh Pond,Brooklyn,176,11.5,16.5,0.7,11.5,16.5,11.0,15.5,G,C,M,C,Y,42,3,9
+Grand Avenue,Brooklyn,153,10.0,14.0,6.0,10.0,14.0,4.0,8.0,G,G,C,G,,38,5,15
+Gun Hill,Bronx,236,15.5,21.5,2.1,15.5,21.5,13.5,19.5,G,M,C,G,,57,3,3
+Jackie Gleason,Brooklyn,245,16.0,22.5,1.6,16.0,22.5,14.5,21.0,M,M,C,M,,37,6,17
+Jamaica,Queens,196,13.0,18.0,0.1,13.0,18.0,13.0,18.0,*,*,*,*,,39,1,11
+John F. Kennedy,Queens,150,10.0,14.0,0.4,10.0,14.0,9.5,13.5,C,M,G,M,,38,3,16
+Kingsbridge,Bronx,222,14.5,20.0,0.6,14.5,20.0,13.5,19.5,M,M,C,M,,74,1,1
+LaGuardia,Queens,206,13.5,19.0,0.6,13.5,19.0,13.0,18.0,C,M,C,NA,Y,30,8,22
+Manhattanville,Manhattan,195,13.0,18.0,2.0,13.0,18.0,11.0,16.0,G,M,C,C,Y,43,1,8
+Meredith Avenue,Staten Island,63,4.5,6.5,0.2,4.5,6.5,4.5,6.0,G,G,C,NA,,21,1,25
+Michael J. Quill,Manhattan,227,14.5,20.5,1.0,14.5,20.5,13.5,19.5,G,C,C,M,Y,29,4,23
+Mother Clara Hale,Manhattan,95,6.5,9.0,2.3,6.5,9.0,4.0,6.5,G,G,M,G,,39,3,12
+Queens Village,Queens,231,15.5,21.5,0.2,15.5,21.5,15.0,21.0,M,C,M,M,,32,6,20
+Spring Creek,Queens,110,7.0,10.0,0.5,7.0,10.0,6.5,9.5,M,C,G,NA,,31,7,21
+Tuskegee Airmen,Manhattan,122,8.5,11.5,1.3,8.5,11.5,7.0,10.5,G,M,C,M,,40,2,10
+Ulmer Park,Brooklyn,206,13.5,19.0,0.3,13.5,19.0,13.0,18.5,C,C,M,C,Y,45,2,6
+West Farms,Bronx,288,19.0,26.5,2.0,19.0,26.5,17.0,24.5,G,M,C,NA,,71,2,2
+Yonkers,Bronx,71,5.0,7.0,0.3,5.0,7.0,5.0,6.5,M,G,M,NA,,55,4,4
+Yukon,Staten Island,232,15.5,21.5,1.1,15.5,21.5,14.0,20.5,M,M,G,C,,18,3,27

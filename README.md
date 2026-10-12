@@ -1,0 +1,33 @@
+# Zero-Emission Transition Dashboard
+
+An independent Power BI dashboard for exploring fleet electrification, depot phasing, and system-wide transition milestones.
+
+## Preview
+
+Use the preview images below to review the dashboard before downloading the packaged report.
+
+![Dashboard overview](screenshots/Overview.png)
+
+![Detailed dashboard](screenshots/Detailed%20Dashboard.png)
+
+## Download the dashboard
+
+Download [`Tracker.pbix`](Tracker.pbix) to open the packaged Power BI report in Power BI Desktop.
+
+## Included files
+
+- `Tracker.pbix` — packaged Power BI dashboard
+- `*.csv` — supporting data extracts used by the report
+- `extract_all_tables.py` — utility script for extracting tables from source material
+- `Zero-Emission Transition Plan.pdf` — reference document used during analysis
+- `screenshots/` — dashboard preview images for visitors who want to review the report before downloading it
+
+## Notes
+
+This is an independent analytical project built from publicly available and project-provided data. It is not an official publication, product, or endorsement of any transit agency.
+
+The report is provided for exploration and demonstration. Refresh behavior may depend on local Power BI settings and the availability of the underlying data sources.
+
+## License
+
+No license has been selected yet. Until one is added, all rights are reserved.
