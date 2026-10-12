@@ -26,7 +26,7 @@ Download [`Tracker.pbix`](Tracker.pbix) to open the packaged Power BI report in 
 
 This is an independent analytical project built from publicly available and project-provided data. It is not an official publication, product, or endorsement of any transit agency.
 
-The report is provided for exploration and demonstration. Refresh behavior may depend on local Power BI settings and the availability of the underlying data sources.
+The report is provided for exploration and demonstration.
 
 ## License
 
